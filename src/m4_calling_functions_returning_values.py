@@ -274,13 +274,13 @@ def run_test_fancy_sums_of_digits():
     # Test 2
     expected = 19084
     answer = fancy_sums_of_digits(2)
-    print('Test 1 expected:', expected)
+    print('Test 2 expected:', expected)
     print('       actual:  ', answer)
 
     # Test 3
     expected = 124309
     answer = fancy_sums_of_digits(35)
-    print('Test 1 expected:', expected)
+    print('Test 3 expected:', expected)
     print('       actual:  ', answer)
     # -------------------------------------------------------------------------
     # HINT:  For your 1st test, consider  n=10.  Figure out BY HAND
